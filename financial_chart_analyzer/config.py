@@ -1,6 +1,5 @@
 """
 Configuration management for Financial Chart Analyzer.
-
 """
 
 import os
